@@ -2,14 +2,12 @@
 
 #include <iostream>
 
-using namespace std;
-
 Application::Application()
 {
-    cout << "Application created" << endl;
+    std::cout << "Created Muyti Engine." << std::endl;
 }
 
-void Application::run()
+void Application::Run()
 {
-    cout << "Application running" << endl;
+    std::cout << "Starting Muyti Engine..." << std::endl;
 }
