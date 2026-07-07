@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mytmt\OneDrive\Desktop\MuytiEngine\build\CMakeFiles\edbefc540fa43adb9d33276d0030bd04\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E0D995D3-FF13-3AA8-AE53-C4996308443B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
