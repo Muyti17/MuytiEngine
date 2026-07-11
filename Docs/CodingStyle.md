@@ -5,3 +5,4 @@
 - MAX_VALUE : Constexpr : UPPER_CASE
 - g_value : Global Variable : g_
 - value : Local Variable 
+- s_value : Static Variable : s_

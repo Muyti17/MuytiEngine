@@ -1,13 +1,14 @@
 #include "Application.h"
+#include "Logger.h"
 
 #include <iostream>
 
 Application::Application()
 {
-    std::cout << "Created Muyti Engine." << std::endl;
+    Logger::Info("Application initialized.");
 }
 
 void Application::Run()
 {
-    std::cout << "Starting Muyti Engine..." << std::endl;
+    Logger::Info("Starting Muyti Engine...");
 }

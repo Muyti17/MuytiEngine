@@ -12,6 +12,7 @@ include_directories(
 add_executable(MuytiEngine
 
     Engine/Core/src/Application.cpp
-    Samples/Sandbox/main.cpp
+    Engine/Core/src/Logger.cpp
+    Samples/Sandbox/main.cpp 
 
 )
