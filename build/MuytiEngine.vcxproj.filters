@@ -1,22 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\mytmt\OneDrive\Desktop\MuytiEngine\Engine\Core\src\Application.cpp">
+    <ClCompile Include="C:\Users\mytmt\OneDrive\Desktop\MuytiProjects\MuytiEngine\Engine\Core\src\Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\mytmt\OneDrive\Desktop\MuytiEngine\Engine\Core\src\Logger.cpp">
+    <ClCompile Include="C:\Users\mytmt\OneDrive\Desktop\MuytiProjects\MuytiEngine\Engine\Core\src\Logger.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\mytmt\OneDrive\Desktop\MuytiEngine\Samples\Sandbox\main.cpp">
+    <ClCompile Include="C:\Users\mytmt\OneDrive\Desktop\MuytiProjects\MuytiEngine\Samples\Sandbox\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mytmt\OneDrive\Desktop\MuytiProjects\MuytiEngine\Engine\Platform\Windows\WindowsWindow.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\mytmt\OneDrive\Desktop\MuytiEngine\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\mytmt\OneDrive\Desktop\MuytiProjects\MuytiEngine\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{B9E84B0C-0DE3-31AD-961A-65FE77782A69}</UniqueIdentifier>
+      <UniqueIdentifier>{03C2504E-01FC-3494-8F74-6736660C6706}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

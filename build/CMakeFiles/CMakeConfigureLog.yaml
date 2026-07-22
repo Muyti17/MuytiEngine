@@ -97,6 +97,7 @@ events:
         - "C:\\Users\\mytmt\\AppData\\Local\\Programs\\Devin\\bin"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
+        - "C:\\Users\\mytmt\\AppData\\Local\\Kingsoft\\WPS Office\\12.1.0.27458\\clitool"
   -
     kind: "message-v1"
     backtrace:
@@ -112,10 +113,10 @@ events:
       
       The output was:
       0
-      .NET Framework i├ğin MSBuild s├╝r├╝m 18.7.8+1ac568fee
-      Olu┼şturma ba┼şlat─▒ld─▒: 7.07.2026 22:37:35.
+      .NET Framework i├ğin MSBuild s├╝r├╝m 18.8.2+ce25c0108
+      Olu┼şturma ba┼şlat─▒ld─▒: 22.07.2026 17:29:53.
       
-      1 d├╝─ş├╝m├╝nde "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\4.4.0-rc3\\CompilerIdC\\CompilerIdC.vcxproj" projesi (varsay─▒lan hedefler).
+      1 d├╝─ş├╝m├╝nde "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\4.4.0-rc3\\CompilerIdC\\CompilerIdC.vcxproj" projesi (varsay─▒lan hedefler).
       PrepareForBuild:
         "Debug\\" dizini olu┼şturuluyor.
         Yap─▒land─▒r─▒lm─▒┼ş ├ğ─▒k─▒┼ş etkinle┼ştirildi. Derleyici tan─▒lamas─▒n─▒n bi├ğimlendirmesi hata hiyerar┼şisini yans─▒t─▒r. Daha fazla ayr─▒nt─▒ i├ğin bkz. https://aka.ms/cpp/structured-output.
@@ -128,7 +129,7 @@ events:
         CMakeCCompilerId.c
       Link:
         C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
-        CompilerIdC.vcxproj -> C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\4.4.0-rc3\\CompilerIdC\\CompilerIdC.exe
+        CompilerIdC.vcxproj -> C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\4.4.0-rc3\\CompilerIdC\\CompilerIdC.exe
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
         :VCEnd
@@ -136,13 +137,13 @@ events:
       FinalizeBuildStatus:
         "Debug\\CompilerIdC.tlog\\unsuccessfulbuild" dosyas─▒ siliniyor.
         "Debug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate" ├Â─şesine eri┼şiliyor.
-      "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\4.4.0-rc3\\CompilerIdC\\CompilerIdC.vcxproj" Projesini Olu┼şturma ─░┼şlemi Tamamland─▒ (varsay─▒lan hedefler).
+      "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\4.4.0-rc3\\CompilerIdC\\CompilerIdC.vcxproj" Projesini Olu┼şturma ─░┼şlemi Tamamland─▒ (varsay─▒lan hedefler).
       
       Olu┼şturma ba┼şar─▒l─▒ oldu.
           0 Uyar─▒
           0 Hata
       
-      Ge├ğen S├╝re 00:00:00.95
+      Ge├ğen S├╝re 00:00:01.00
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -150,7 +151,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
       
       The C compiler identification is MSVC, found in:
-        C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/4.4.0-rc3/CompilerIdC/CompilerIdC.exe
+        C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/4.4.0-rc3/CompilerIdC/CompilerIdC.exe
       
   -
     kind: "find-v1"
@@ -218,6 +219,7 @@ events:
       - "C:/Users/mytmt/AppData/Roaming/npm/"
       - "C:/Users/mytmt/AppData/Local/Programs/Antigravity IDE/bin/"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/"
     searched_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/link.com"
     found: "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/link.exe"
@@ -285,6 +287,7 @@ events:
         - "C:\\Users\\mytmt\\AppData\\Local\\Programs\\Devin\\bin"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
+        - "C:\\Users\\mytmt\\AppData\\Local\\Kingsoft\\WPS Office\\12.1.0.27458\\clitool"
   -
     kind: "find-v1"
     backtrace:
@@ -351,6 +354,7 @@ events:
       - "C:/Users/mytmt/AppData/Roaming/npm/"
       - "C:/Users/mytmt/AppData/Local/Programs/Antigravity IDE/bin/"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/"
     searched_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lld-link.com"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lld-link.exe"
@@ -484,6 +488,9 @@ events:
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/lld-link.com"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/lld-link.exe"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/lld-link"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/lld-link.com"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/lld-link.exe"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/lld-link"
     found: false
     search_context:
       ENV{PATH}:
@@ -549,6 +556,7 @@ events:
         - "C:\\Users\\mytmt\\AppData\\Local\\Programs\\Devin\\bin"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
+        - "C:\\Users\\mytmt\\AppData\\Local\\Kingsoft\\WPS Office\\12.1.0.27458\\clitool"
   -
     kind: "find-v1"
     backtrace:
@@ -613,6 +621,7 @@ events:
       - "C:/Users/mytmt/AppData/Roaming/npm/"
       - "C:/Users/mytmt/AppData/Local/Programs/Antigravity IDE/bin/"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/"
     searched_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/link.com"
     found: "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/link.exe"
@@ -680,6 +689,7 @@ events:
         - "C:\\Users\\mytmt\\AppData\\Local\\Programs\\Devin\\bin"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
+        - "C:\\Users\\mytmt\\AppData\\Local\\Kingsoft\\WPS Office\\12.1.0.27458\\clitool"
   -
     kind: "find-v1"
     backtrace:
@@ -744,6 +754,7 @@ events:
       - "C:/Users/mytmt/AppData/Roaming/npm/"
       - "C:/Users/mytmt/AppData/Local/Programs/Antigravity IDE/bin/"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/"
     searched_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/mt.com"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/mt.exe"
@@ -877,6 +888,9 @@ events:
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/mt.com"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/mt.exe"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/mt"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/mt.com"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/mt.exe"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/mt"
     found: false
     search_context:
       ENV{PATH}:
@@ -942,6 +956,7 @@ events:
         - "C:\\Users\\mytmt\\AppData\\Local\\Programs\\Devin\\bin"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
+        - "C:\\Users\\mytmt\\AppData\\Local\\Kingsoft\\WPS Office\\12.1.0.27458\\clitool"
   -
     kind: "find-v1"
     backtrace:
@@ -1006,6 +1021,7 @@ events:
       - "C:/Users/mytmt/AppData/Roaming/npm/"
       - "C:/Users/mytmt/AppData/Local/Programs/Antigravity IDE/bin/"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/"
     searched_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lib.com"
     found: "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lib.exe"
@@ -1073,6 +1089,7 @@ events:
         - "C:\\Users\\mytmt\\AppData\\Local\\Programs\\Devin\\bin"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
+        - "C:\\Users\\mytmt\\AppData\\Local\\Kingsoft\\WPS Office\\12.1.0.27458\\clitool"
   -
     kind: "find-v1"
     backtrace:
@@ -1162,6 +1179,7 @@ events:
         - "C:\\Users\\mytmt\\AppData\\Local\\Programs\\Devin\\bin"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
+        - "C:\\Users\\mytmt\\AppData\\Local\\Kingsoft\\WPS Office\\12.1.0.27458\\clitool"
   -
     kind: "message-v1"
     backtrace:
@@ -1177,10 +1195,10 @@ events:
       
       The output was:
       0
-      .NET Framework i├ğin MSBuild s├╝r├╝m 18.7.8+1ac568fee
-      Olu┼şturma ba┼şlat─▒ld─▒: 7.07.2026 22:37:37.
+      .NET Framework i├ğin MSBuild s├╝r├╝m 18.8.2+ce25c0108
+      Olu┼şturma ba┼şlat─▒ld─▒: 22.07.2026 17:29:55.
       
-      1 d├╝─ş├╝m├╝nde "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\4.4.0-rc3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" projesi (varsay─▒lan hedefler).
+      1 d├╝─ş├╝m├╝nde "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\4.4.0-rc3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" projesi (varsay─▒lan hedefler).
       PrepareForBuild:
         "Debug\\" dizini olu┼şturuluyor.
         Yap─▒land─▒r─▒lm─▒┼ş ├ğ─▒k─▒┼ş etkinle┼ştirildi. Derleyici tan─▒lamas─▒n─▒n bi├ğimlendirmesi hata hiyerar┼şisini yans─▒t─▒r. Daha fazla ayr─▒nt─▒ i├ğin bkz. https://aka.ms/cpp/structured-output.
@@ -1193,7 +1211,7 @@ events:
         CMakeCXXCompilerId.cpp
       Link:
         C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
-        CompilerIdCXX.vcxproj -> C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\4.4.0-rc3\\CompilerIdCXX\\CompilerIdCXX.exe
+        CompilerIdCXX.vcxproj -> C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\4.4.0-rc3\\CompilerIdCXX\\CompilerIdCXX.exe
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
         :VCEnd
@@ -1201,13 +1219,13 @@ events:
       FinalizeBuildStatus:
         "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild" dosyas─▒ siliniyor.
         "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate" ├Â─şesine eri┼şiliyor.
-      "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\4.4.0-rc3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" Projesini Olu┼şturma ─░┼şlemi Tamamland─▒ (varsay─▒lan hedefler).
+      "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\4.4.0-rc3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" Projesini Olu┼şturma ─░┼şlemi Tamamland─▒ (varsay─▒lan hedefler).
       
       Olu┼şturma ba┼şar─▒l─▒ oldu.
           0 Uyar─▒
           0 Hata
       
-      Ge├ğen S├╝re 00:00:00.60
+      Ge├ğen S├╝re 00:00:00.66
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -1215,7 +1233,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
       
       The CXX compiler identification is MSVC, found in:
-        C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/4.4.0-rc3/CompilerIdCXX/CompilerIdCXX.exe
+        C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/4.4.0-rc3/CompilerIdCXX/CompilerIdCXX.exe
       
   -
     kind: "find-v1"
@@ -1283,6 +1301,7 @@ events:
       - "C:/Users/mytmt/AppData/Roaming/npm/"
       - "C:/Users/mytmt/AppData/Local/Programs/Antigravity IDE/bin/"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/"
     searched_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lld-link.com"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lld-link.exe"
@@ -1416,6 +1435,9 @@ events:
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/lld-link.com"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/lld-link.exe"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/lld-link"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/lld-link.com"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/lld-link.exe"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/lld-link"
     found: false
     search_context:
       ENV{PATH}:
@@ -1481,6 +1503,7 @@ events:
         - "C:\\Users\\mytmt\\AppData\\Local\\Programs\\Devin\\bin"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
+        - "C:\\Users\\mytmt\\AppData\\Local\\Kingsoft\\WPS Office\\12.1.0.27458\\clitool"
   -
     kind: "find-v1"
     backtrace:
@@ -1547,6 +1570,7 @@ events:
       - "C:/Users/mytmt/AppData/Roaming/npm/"
       - "C:/Users/mytmt/AppData/Local/Programs/Antigravity IDE/bin/"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
       - "C:/Program Files/"
@@ -1689,6 +1713,9 @@ events:
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/rc.com"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/rc.exe"
       - "C:/Users/mytmt/AppData/Local/Programs/Devin/bin/rc"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/rc.com"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/rc.exe"
+      - "C:/Users/mytmt/AppData/Local/Kingsoft/WPS Office/12.1.0.27458/clitool/rc"
       - "C:/Program Files/bin/rc.com"
       - "C:/Program Files/bin/rc.exe"
       - "C:/Program Files/bin/rc"
@@ -1790,6 +1817,7 @@ events:
         - "C:\\Users\\mytmt\\AppData\\Local\\Programs\\Devin\\bin"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
         - "C:\\Users\\mytmt\\.dotnet\\tools"
+        - "C:\\Users\\mytmt\\AppData\\Local\\Kingsoft\\WPS Office\\12.1.0.27458\\clitool"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MuytiEngine"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -1805,8 +1833,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-a8uq8h"
-      binary: "C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-a8uq8h"
+      source: "C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-b6dzkf"
+      binary: "C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-b6dzkf"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
@@ -1816,39 +1844,39 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: false
       stdout: |
-        Change Dir: 'C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-a8uq8h'
+        Change Dir: 'C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-b6dzkf'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_4e2cc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
-        .NET Framework i├ğin MSBuild s├╝r├╝m 18.7.8+1ac568fee
-        Olu┼şturma ba┼şlat─▒ld─▒: 7.07.2026 22:37:38.
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_dbcde.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        .NET Framework i├ğin MSBuild s├╝r├╝m 18.8.2+ce25c0108
+        Olu┼şturma ba┼şlat─▒ld─▒: 22.07.2026 17:29:56.
         
-        1 d├╝─ş├╝m├╝nde "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-a8uq8h\\cmTC_4e2cc.vcxproj" projesi (varsay─▒lan hedefler).
+        1 d├╝─ş├╝m├╝nde "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b6dzkf\\cmTC_dbcde.vcxproj" projesi (varsay─▒lan hedefler).
         PrepareForBuild:
           Yap─▒land─▒r─▒lm─▒┼ş ├ğ─▒k─▒┼ş etkinle┼ştirildi. Derleyici tan─▒lamas─▒n─▒n bi├ğimlendirmesi hata hiyerar┼şisini yans─▒t─▒r. Daha fazla ayr─▒nt─▒ i├ğin bkz. https://aka.ms/cpp/structured-output.
-          "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-a8uq8h\\Debug\\" dizini olu┼şturuluyor.
-          "cmTC_4e2cc.dir\\Debug\\cmTC_4e2cc.tlog\\" dizini olu┼şturuluyor.
+          "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b6dzkf\\Debug\\" dizini olu┼şturuluyor.
+          "cmTC_dbcde.dir\\Debug\\cmTC_dbcde.tlog\\" dizini olu┼şturuluyor.
         InitializeBuildStatus:
-          "AlwaysCreate" belirtildi─şi i├ğin "cmTC_4e2cc.dir\\Debug\\cmTC_4e2cc.tlog\\unsuccessfulbuild" olu┼şturuluyor.
-          "cmTC_4e2cc.dir\\Debug\\cmTC_4e2cc.tlog\\unsuccessfulbuild" ├Â─şesine eri┼şiliyor.
+          "AlwaysCreate" belirtildi─şi i├ğin "cmTC_dbcde.dir\\Debug\\cmTC_dbcde.tlog\\unsuccessfulbuild" olu┼şturuluyor.
+          "cmTC_dbcde.dir\\Debug\\cmTC_dbcde.tlog\\unsuccessfulbuild" ├Â─şesine eri┼şiliyor.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_4e2cc.dir\\Debug\\\\" /Fd"cmTC_4e2cc.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_dbcde.dir\\Debug\\\\" /Fd"cmTC_dbcde.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.51.36248 for x64
           Telif Hakk─▒ (C) Microsoft Corporation. T├╝m haklar─▒ sakl─▒d─▒r.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_4e2cc.dir\\Debug\\\\" /Fd"cmTC_4e2cc.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_dbcde.dir\\Debug\\\\" /Fd"cmTC_dbcde.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-a8uq8h\\Debug\\cmTC_4e2cc.exe" /INCREMENTAL /ILK:"cmTC_4e2cc.dir\\Debug\\cmTC_4e2cc.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-a8uq8h/Debug/cmTC_4e2cc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-a8uq8h/Debug/cmTC_4e2cc.lib" /MACHINE:X64  /machine:x64 cmTC_4e2cc.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_4e2cc.vcxproj -> C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-a8uq8h\\Debug\\cmTC_4e2cc.exe
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b6dzkf\\Debug\\cmTC_dbcde.exe" /INCREMENTAL /ILK:"cmTC_dbcde.dir\\Debug\\cmTC_dbcde.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-b6dzkf/Debug/cmTC_dbcde.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-b6dzkf/Debug/cmTC_dbcde.lib" /MACHINE:X64  /machine:x64 cmTC_dbcde.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_dbcde.vcxproj -> C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b6dzkf\\Debug\\cmTC_dbcde.exe
         FinalizeBuildStatus:
-          "cmTC_4e2cc.dir\\Debug\\cmTC_4e2cc.tlog\\unsuccessfulbuild" dosyas─▒ siliniyor.
-          "cmTC_4e2cc.dir\\Debug\\cmTC_4e2cc.tlog\\cmTC_4e2cc.lastbuildstate" ├Â─şesine eri┼şiliyor.
-        "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-a8uq8h\\cmTC_4e2cc.vcxproj" Projesini Olu┼şturma ─░┼şlemi Tamamland─▒ (varsay─▒lan hedefler).
+          "cmTC_dbcde.dir\\Debug\\cmTC_dbcde.tlog\\unsuccessfulbuild" dosyas─▒ siliniyor.
+          "cmTC_dbcde.dir\\Debug\\cmTC_dbcde.tlog\\cmTC_dbcde.lastbuildstate" ├Â─şesine eri┼şiliyor.
+        "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b6dzkf\\cmTC_dbcde.vcxproj" Projesini Olu┼şturma ─░┼şlemi Tamamland─▒ (varsay─▒lan hedefler).
         
         Olu┼şturma ba┼şar─▒l─▒ oldu.
             0 Uyar─▒
             0 Hata
         
-        Ge├ğen S├╝re 00:00:00.54
+        Ge├ğen S├╝re 00:00:00.57
         
       exitCode: 0
   -
@@ -1861,7 +1889,7 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
-        link line: [  C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-a8uq8h\\Debug\\cmTC_4e2cc.exe" /INCREMENTAL /ILK:"cmTC_4e2cc.dir\\Debug\\cmTC_4e2cc.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-a8uq8h/Debug/cmTC_4e2cc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-a8uq8h/Debug/cmTC_4e2cc.lib" /MACHINE:X64  /machine:x64 cmTC_4e2cc.dir\\Debug\\CMakeCCompilerABI.obj] ==> linker [C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe]
+        link line: [  C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b6dzkf\\Debug\\cmTC_dbcde.exe" /INCREMENTAL /ILK:"cmTC_dbcde.dir\\Debug\\cmTC_dbcde.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-b6dzkf/Debug/cmTC_dbcde.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-b6dzkf/Debug/cmTC_dbcde.lib" /MACHINE:X64  /machine:x64 cmTC_dbcde.dir\\Debug\\CMakeCCompilerABI.obj] ==> linker [C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe]
         linker tool for 'C': C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/HostX64/x64/link.exe 
         implicit libs: []
         implicit objs: []
@@ -1889,8 +1917,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-cgjfzt"
-      binary: "C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-cgjfzt"
+      source: "C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-9jug1y"
+      binary: "C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-9jug1y"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -1901,39 +1929,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: false
       stdout: |
-        Change Dir: 'C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-cgjfzt'
+        Change Dir: 'C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-9jug1y'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_38dad.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
-        .NET Framework i├ğin MSBuild s├╝r├╝m 18.7.8+1ac568fee
-        Olu┼şturma ba┼şlat─▒ld─▒: 7.07.2026 22:37:39.
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_6e716.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        .NET Framework i├ğin MSBuild s├╝r├╝m 18.8.2+ce25c0108
+        Olu┼şturma ba┼şlat─▒ld─▒: 22.07.2026 17:29:57.
         
-        1 d├╝─ş├╝m├╝nde "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cgjfzt\\cmTC_38dad.vcxproj" projesi (varsay─▒lan hedefler).
+        1 d├╝─ş├╝m├╝nde "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9jug1y\\cmTC_6e716.vcxproj" projesi (varsay─▒lan hedefler).
         PrepareForBuild:
           Yap─▒land─▒r─▒lm─▒┼ş ├ğ─▒k─▒┼ş etkinle┼ştirildi. Derleyici tan─▒lamas─▒n─▒n bi├ğimlendirmesi hata hiyerar┼şisini yans─▒t─▒r. Daha fazla ayr─▒nt─▒ i├ğin bkz. https://aka.ms/cpp/structured-output.
-          "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cgjfzt\\Debug\\" dizini olu┼şturuluyor.
-          "cmTC_38dad.dir\\Debug\\cmTC_38dad.tlog\\" dizini olu┼şturuluyor.
+          "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9jug1y\\Debug\\" dizini olu┼şturuluyor.
+          "cmTC_6e716.dir\\Debug\\cmTC_6e716.tlog\\" dizini olu┼şturuluyor.
         InitializeBuildStatus:
-          "AlwaysCreate" belirtildi─şi i├ğin "cmTC_38dad.dir\\Debug\\cmTC_38dad.tlog\\unsuccessfulbuild" olu┼şturuluyor.
-          "cmTC_38dad.dir\\Debug\\cmTC_38dad.tlog\\unsuccessfulbuild" ├Â─şesine eri┼şiliyor.
+          "AlwaysCreate" belirtildi─şi i├ğin "cmTC_6e716.dir\\Debug\\cmTC_6e716.tlog\\unsuccessfulbuild" olu┼şturuluyor.
+          "cmTC_6e716.dir\\Debug\\cmTC_6e716.tlog\\unsuccessfulbuild" ├Â─şesine eri┼şiliyor.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_38dad.dir\\Debug\\\\" /Fd"cmTC_38dad.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_6e716.dir\\Debug\\\\" /Fd"cmTC_6e716.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.51.36248 for x64
           Telif Hakk─▒ (C) Microsoft Corporation. T├╝m haklar─▒ sakl─▒d─▒r.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_38dad.dir\\Debug\\\\" /Fd"cmTC_38dad.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_6e716.dir\\Debug\\\\" /Fd"cmTC_6e716.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cgjfzt\\Debug\\cmTC_38dad.exe" /INCREMENTAL /ILK:"cmTC_38dad.dir\\Debug\\cmTC_38dad.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-cgjfzt/Debug/cmTC_38dad.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-cgjfzt/Debug/cmTC_38dad.lib" /MACHINE:X64  /machine:x64 cmTC_38dad.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_38dad.vcxproj -> C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cgjfzt\\Debug\\cmTC_38dad.exe
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9jug1y\\Debug\\cmTC_6e716.exe" /INCREMENTAL /ILK:"cmTC_6e716.dir\\Debug\\cmTC_6e716.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-9jug1y/Debug/cmTC_6e716.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-9jug1y/Debug/cmTC_6e716.lib" /MACHINE:X64  /machine:x64 cmTC_6e716.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_6e716.vcxproj -> C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9jug1y\\Debug\\cmTC_6e716.exe
         FinalizeBuildStatus:
-          "cmTC_38dad.dir\\Debug\\cmTC_38dad.tlog\\unsuccessfulbuild" dosyas─▒ siliniyor.
-          "cmTC_38dad.dir\\Debug\\cmTC_38dad.tlog\\cmTC_38dad.lastbuildstate" ├Â─şesine eri┼şiliyor.
-        "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cgjfzt\\cmTC_38dad.vcxproj" Projesini Olu┼şturma ─░┼şlemi Tamamland─▒ (varsay─▒lan hedefler).
+          "cmTC_6e716.dir\\Debug\\cmTC_6e716.tlog\\unsuccessfulbuild" dosyas─▒ siliniyor.
+          "cmTC_6e716.dir\\Debug\\cmTC_6e716.tlog\\cmTC_6e716.lastbuildstate" ├Â─şesine eri┼şiliyor.
+        "C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9jug1y\\cmTC_6e716.vcxproj" Projesini Olu┼şturma ─░┼şlemi Tamamland─▒ (varsay─▒lan hedefler).
         
         Olu┼şturma ba┼şar─▒l─▒ oldu.
             0 Uyar─▒
             0 Hata
         
-        Ge├ğen S├╝re 00:00:00.53
+        Ge├ğen S├╝re 00:00:00.56
         
       exitCode: 0
   -
@@ -1946,7 +1974,7 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
-        link line: [  C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cgjfzt\\Debug\\cmTC_38dad.exe" /INCREMENTAL /ILK:"cmTC_38dad.dir\\Debug\\cmTC_38dad.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-cgjfzt/Debug/cmTC_38dad.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-cgjfzt/Debug/cmTC_38dad.lib" /MACHINE:X64  /machine:x64 cmTC_38dad.dir\\Debug\\CMakeCXXCompilerABI.obj] ==> linker [C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe]
+        link line: [  C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\mytmt\\OneDrive\\Desktop\\MuytiProjects\\MuytiEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9jug1y\\Debug\\cmTC_6e716.exe" /INCREMENTAL /ILK:"cmTC_6e716.dir\\Debug\\cmTC_6e716.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-9jug1y/Debug/cmTC_6e716.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/CMakeScratch/TryCompile-9jug1y/Debug/cmTC_6e716.lib" /MACHINE:X64  /machine:x64 cmTC_6e716.dir\\Debug\\CMakeCXXCompilerABI.obj] ==> linker [C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe]
         linker tool for 'CXX': C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/HostX64/x64/link.exe 
         implicit libs: []
         implicit objs: []

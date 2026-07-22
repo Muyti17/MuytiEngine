@@ -1,6 +1,6 @@
-^C:\USERS\MYTMT\ONEDRIVE\DESKTOP\MUYTIENGINE\CMAKELISTS.TXT
+^C:\USERS\MYTMT\ONEDRIVE\DESKTOP\MUYTIPROJECTS\MUYTIENGINE\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/mytmt/OneDrive/Desktop/MuytiEngine -BC:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build --check-stamp-file C:/Users/mytmt/OneDrive/Desktop/MuytiEngine/build/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine -BC:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build --check-stamp-file C:/Users/mytmt/OneDrive/Desktop/MuytiProjects/MuytiEngine/build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
